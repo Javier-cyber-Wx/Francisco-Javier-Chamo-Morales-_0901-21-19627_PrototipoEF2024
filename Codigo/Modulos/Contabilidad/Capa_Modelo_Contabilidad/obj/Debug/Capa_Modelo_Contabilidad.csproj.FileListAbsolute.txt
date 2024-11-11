@@ -1,0 +1,6 @@
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\bin\Debug\Capa_Modelo_Contabilidad.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\bin\Debug\Capa_Modelo_Contabilidad.pdb
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.pdb

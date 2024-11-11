@@ -1,0 +1,6 @@
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.pdb

@@ -1,0 +1,6 @@
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\bin\Debug\Capa_Modelo_CierreContable.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\bin\Debug\Capa_Modelo_CierreContable.pdb
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.pdb

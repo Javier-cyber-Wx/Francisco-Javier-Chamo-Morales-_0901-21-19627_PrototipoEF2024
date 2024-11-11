@@ -1,0 +1,9 @@
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\bin\Debug\Capa_Controlador_Consulta.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\bin\Debug\Capa_Controlador_Consulta.pdb
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.CopyComplete
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.dll
+C:\Users\franc\Desktop\PrototipoEF2024\Codigo\Componentes\Consultas\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.pdb
